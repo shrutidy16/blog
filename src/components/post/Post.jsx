@@ -3,7 +3,7 @@ import './post.css'
 export default function Post() {
   return (
     <div className='post'>
-    <img className='postImg' src="https://celebmafia.com/wp-content/uploads/2020/07/taylor-swift-folklore-album-promo-photos-2020-34.jpg" alt=""/>
+    <img className='postImg' src="https://i.etsystatic.com/20008056/r/il/be4e22/1847678324/il_1588xN.1847678324_erej.jpg" alt=""/>
     <div className='postInfo'>
         <div className='postCats'>
             <span className='postCat'>Music</span>

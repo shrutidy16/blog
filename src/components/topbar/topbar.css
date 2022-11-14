@@ -7,6 +7,7 @@
     display: flex; /*To display every content in navbar*/
     align-items: center;
     font-family: 'Josefin Sans', sans-serif;
+    z-index: 999;
 }
 
 .topleft, .topRight{
